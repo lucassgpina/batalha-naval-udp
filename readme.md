@@ -87,10 +87,10 @@ O Jogo
 ------
 É o clássico Batalha Naval que todos conhecemos 
 
-* Tabuleiro
+ Tabuleiro
 
 	O tabuleiro quadriculado com suas coordenadas que variam de A à J na horizontal e de 1 à 10 na vertical:
-	|##| A | B | C | D | E | F | G | H | I | J |
+	|::| A | B | C | D | E | F | G | H | I | J |
 	|--|---|---|---|---|---|---|---|---|---|---|
 	|1 |   |   |   |   |   |   |   |   |   |   |
 	|2 |   |   |   |   |   |   |   |   |   |   |
@@ -124,12 +124,12 @@ O jogo é dividido em duas fases:
 	* 2x [C] Cruzadores (3 posições)
 	* 1x [S] Submarinos (1 posição)
 	
+	
 	Para posicionar cada navio basta indicar de onde à onde você quer que ele fique. Exemplo:
-     |coordenada|             descrição                                 |
-     |----------|-------------------------------------------------------|
-	 |D3,F3     | posiciona um Cruzador ocupando as posições D3,E3 e F3 |
-	 |A5        | posiciona um submarino em A5                          |
-	 |G2,G6     | posiciona um Porta-aviões de G2 a G6                  |
+
+	 * D3,F3 - posiciona um Cruzador ocupando as posições D3,E3 e F3 |
+	 * A5 - posiciona um submarino em A5                          |
+	 * G2,G6 - posiciona um Porta-aviões de G2 a G6                  |
 		
 2. Fase de Batalha	
 	
